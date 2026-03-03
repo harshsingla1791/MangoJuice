@@ -1,1 +1,2 @@
 # MangoJuice
+Author - Harsh Singla
